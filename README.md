@@ -6,7 +6,9 @@
 
 PGP: 
 ```
-FEFA866517DD60E9D54472F69CB00F4997333CA3 (deprecated)
+FEFA866517DD60E9D54472F69CB00F4997333CA3
 ```
+[publickey.asc](https://raw.githubusercontent.com/atamakahere-git/atamakahere-git/refs/heads/master/publickey.asc)
+
 ---
 Sadly, Codeberg is blocked in [Saudi Arabia](https://codeberg.org/Codeberg/Community/issues/812)! Use a VPN maybe.
